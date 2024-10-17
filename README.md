@@ -1,6 +1,6 @@
-## Oi, eu sou o LexpDev.
-> Sou um jovem programador que mora no Brasil, programo algumas coisas e gosto de ouvir música.
---- 
+# Oi, eu sou o LexpDev.
+Sou um jovem programador que mora no Brasil, programo algumas coisas e gosto de ouvir música.
+
 O que eu gosto:
 - 🌐 Programar sites
 - 🐍 Fazer projetos em Python
