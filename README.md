@@ -1,13 +1,11 @@
-# Oi, eu sou o LexpDev.
-Sou um jovem programador que mora no Brasil, programo algumas coisas e gosto de ouvir música.
+# oi, eu sou o lexpdev.
+sou um dev frontend, as vezes faço backend em python também. 
 
-O que eu gosto:
-- 🌐 Programar sites
-- 🐍 Fazer projetos em Python
-- 🛰️ Brincar com rádio amadorismo e satélites
-- 🧑‍💻 Hackear eletrônicos domésticos
-- 🎧 Ouvir música
+linguagens:
+- Python
+- HTML/CSS
+- um pouco de lua
 
-Links:
-- 🌐 [Meu site pessoal](https://www.lexpdev.xyz/)
-- ▶️ [Meu YouTube](https://www.youtube.com/@oluscano)
+links:
+- 🌐 [meu site pessoal](https://www.lexpdev.xyz/)
+- ▶️ [meu youtube](https://www.youtube.com/@oluscano)
